@@ -1,1 +1,1 @@
-# mojafe
+# Message Oriented JavaScript Framework (mojafe)
